@@ -12,6 +12,18 @@ One True Awk
 x install nawk
 ```
 
+## Code insight
+
+Total: **9,117** lines of code across **17** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 8,083 | 747 | 959 | 11 |
+| CHeader | 543 | 97 | 64 | 3 |
+| Happy | 428 | 0 | 58 | 1 |
+| Makefile | 63 | 25 | 24 | 1 |
+| Markdown | 0 | 6 | 2 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/mturk/nawk>
@@ -22,7 +34,6 @@ x install nawk
 - **Latest**: `v2024.10.07` (2024-10-06)
 - **Last commit**: 2024-10-06
 - **Assets in release**: 1
-- **Published**: 2024-10-06T23:36:41Z
 
 ## Popularity
 
@@ -37,28 +48,25 @@ x install nawk
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 2 | 0 | 0 | 0 | 0 | 6 |
 
-## Code size
+## Release assets
 
-Total: **9,117** lines of code across **17** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 8,083 | 747 | 959 | 11 |
-| CHeader | 543 | 97 | 64 | 3 |
-| Happy | 428 | 0 | 58 | 1 |
-| Makefile | 63 | 25 | 24 | 1 |
-| Markdown | 0 | 6 | 2 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nawk-2024.10.07-win-x64.zip](https://github.com/mturk/nawk/releases/download/v2024.10.07/nawk-2024.10.07-win-x64.zip) | 57.3 KiB | `other` |
 
 ## Improve this data
 
 Install metadata for nawk lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nawk` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nawk.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nawk.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:44:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:43:25Z._
